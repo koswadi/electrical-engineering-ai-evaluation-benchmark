@@ -1,0 +1,21 @@
+id,category,difficulty,question
+1,Transformer,Easy,What is transformer voltage regulation?
+2,Transformer,Medium,Why are transformer cores laminated?
+3,Transformer,Medium,What causes copper losses in a transformer?
+4,Power System,Easy,What is the purpose of the per-unit system?
+5,Power System,Medium,Define load flow analysis.
+6,Power System,Hard,What is the slack bus in power flow studies?
+7,Protection,Easy,What is the purpose of a protective relay?
+8,Protection,Medium,What is relay coordination?
+9,Protection,Hard,What is differential protection?
+10,Electrical Machines,Easy,What is slip in an induction motor?
+11,Electrical Machines,Medium,Why does slip occur in induction motors?
+12,Electrical Machines,Hard,What is the function of the commutator in a DC machine?
+13,Transmission,Medium,Why is high voltage used for power transmission?
+14,Transmission,Hard,What is the Ferranti effect?
+15,Distribution,Medium,What is voltage drop in distribution systems?
+16,Renewable Energy,Easy,How does a solar photovoltaic cell generate electricity?
+17,Renewable Energy,Medium,What is the function of an inverter in solar PV systems?
+18,Electrical Fundamentals,Easy,State Ohm's Law.
+19,Electrical Fundamentals,Medium,Define power factor.
+20,Electrical Fundamentals,Hard,What is the difference between active and reactive power?

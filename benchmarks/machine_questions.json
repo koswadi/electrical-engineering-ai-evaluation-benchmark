@@ -1,0 +1,32 @@
+[
+    {
+        "id": "EM001",
+        "difficulty": "Easy",
+        "question": "What is slip in an induction motor?",
+        "reference_answer": "Slip is the difference between synchronous speed and rotor speed."
+    },
+    {
+        "id": "EM002",
+        "difficulty": "Easy",
+        "question": "What is synchronous speed?",
+        "reference_answer": "Synchronous speed is the speed of the rotating magnetic field."
+    },
+    {
+        "id": "EM003",
+        "difficulty": "Medium",
+        "question": "Why does slip occur in induction motors?",
+        "reference_answer": "Slip occurs because relative motion is required to induce rotor current."
+    },
+    {
+        "id": "EM004",
+        "difficulty": "Medium",
+        "question": "What is the function of a commutator?",
+        "reference_answer": "A commutator converts internally generated AC into DC."
+    },
+    {
+        "id": "EM005",
+        "difficulty": "Hard",
+        "question": "Compare induction motors and synchronous motors.",
+        "reference_answer": "Induction motors operate with slip, while synchronous motors operate at synchronous speed."
+    }
+]

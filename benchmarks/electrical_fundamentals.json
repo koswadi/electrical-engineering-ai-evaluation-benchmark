@@ -1,0 +1,32 @@
+[
+    {
+        "id": "EF001",
+        "difficulty": "Easy",
+        "question": "State Ohm's Law.",
+        "reference_answer": "Ohm's Law states that voltage equals current multiplied by resistance."
+    },
+    {
+        "id": "EF002",
+        "difficulty": "Easy",
+        "question": "What is electric power?",
+        "reference_answer": "Electric power is the rate at which electrical energy is transferred."
+    },
+    {
+        "id": "EF003",
+        "difficulty": "Medium",
+        "question": "Define power factor.",
+        "reference_answer": "Power factor is the ratio of real power to apparent power."
+    },
+    {
+        "id": "EF004",
+        "difficulty": "Medium",
+        "question": "What is Kirchhoff's Current Law?",
+        "reference_answer": "The algebraic sum of currents entering and leaving a node equals zero."
+    },
+    {
+        "id": "EF005",
+        "difficulty": "Hard",
+        "question": "What is the difference between active and reactive power?",
+        "reference_answer": "Active power performs useful work while reactive power supports electric and magnetic fields."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "PR001",
+        "difficulty": "Easy",
+        "question": "What is the purpose of a protective relay?",
+        "reference_answer": "A protective relay detects abnormal conditions and initiates breaker operation."
+    },
+    {
+        "id": "PR002",
+        "difficulty": "Easy",
+        "question": "What is a circuit breaker?",
+        "reference_answer": "A circuit breaker interrupts current during abnormal operating conditions."
+    },
+    {
+        "id": "PR003",
+        "difficulty": "Medium",
+        "question": "What is relay coordination?",
+        "reference_answer": "Relay coordination ensures the closest protection device operates first."
+    },
+    {
+        "id": "PR004",
+        "difficulty": "Medium",
+        "question": "What is overcurrent protection?",
+        "reference_answer": "Overcurrent protection trips equipment when current exceeds a preset threshold."
+    },
+    {
+        "id": "PR005",
+        "difficulty": "Hard",
+        "question": "What is differential protection?",
+        "reference_answer": "Differential protection compares currents entering and leaving protected equipment."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "PS001",
+        "difficulty": "Easy",
+        "question": "What is the purpose of the per-unit system?",
+        "reference_answer": "The per-unit system simplifies power system calculations by normalizing quantities."
+    },
+    {
+        "id": "PS002",
+        "difficulty": "Easy",
+        "question": "Define load flow analysis.",
+        "reference_answer": "Load flow analysis determines voltages, power flows, and losses in a power network."
+    },
+    {
+        "id": "PS003",
+        "difficulty": "Medium",
+        "question": "What is a slack bus?",
+        "reference_answer": "A slack bus balances active and reactive power mismatches in power flow calculations."
+    },
+    {
+        "id": "PS004",
+        "difficulty": "Medium",
+        "question": "What is system stability?",
+        "reference_answer": "System stability is the ability of a power system to maintain synchronism after disturbances."
+    },
+    {
+        "id": "PS005",
+        "difficulty": "Hard",
+        "question": "What is transient stability analysis?",
+        "reference_answer": "Transient stability analysis evaluates system behavior following large disturbances such as faults."
+    }
+]

@@ -1,0 +1,10 @@
+question_id,category,question,ground_truth,ai_answer,technical_accuracy_score,similarity_score,hallucination_level,fact_check,final_verdict
+1,Transformer,"What is transformer voltage regulation?","Voltage regulation is the percentage change in secondary voltage from no-load to full-load while maintaining constant primary voltage.","Voltage regulation is the change in transformer secondary voltage between no-load and full-load conditions.",5,0.94,None,Pass,Excellent
+
+2,Power System,"Define load flow analysis.","Load flow analysis determines bus voltages, power flows, and system losses under steady-state conditions.","Load flow analysis calculates voltages, currents, and power flows in a power network.",4,0.89,None,Pass,Good
+
+3,Protection,"What is relay coordination?","Relay coordination ensures the nearest protective device operates first during a fault.","Relay coordination ensures only the faulty section is disconnected.",4,0.88,None,Pass,Good
+
+4,Electrical Machines,"What is slip in an induction motor?","Slip is the difference between synchronous speed and rotor speed expressed as a percentage of synchronous speed.","Slip is the speed difference between synchronous speed and rotor speed.",5,0.96,None,Pass,Excellent
+
+5,Electrical Fundamentals,"Define power factor.","Power factor is the ratio of real power to apparent power in an AC circuit.","Power factor can be greater than 1.5 in AC systems.",1,0.10,Critical,Fail,Incorrect

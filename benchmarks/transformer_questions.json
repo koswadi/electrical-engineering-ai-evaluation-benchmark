@@ -1,0 +1,32 @@
+[
+    {
+        "id": "TR001",
+        "difficulty": "Easy",
+        "question": "What is transformer voltage regulation?",
+        "reference_answer": "Voltage regulation is the percentage change in secondary voltage from no-load to full-load conditions while maintaining constant primary voltage."
+    },
+    {
+        "id": "TR002",
+        "difficulty": "Easy",
+        "question": "What is transformer efficiency?",
+        "reference_answer": "Transformer efficiency is the ratio of output power to input power expressed as a percentage."
+    },
+    {
+        "id": "TR003",
+        "difficulty": "Medium",
+        "question": "Why are transformer cores laminated?",
+        "reference_answer": "Transformer cores are laminated to reduce eddy current losses."
+    },
+    {
+        "id": "TR004",
+        "difficulty": "Medium",
+        "question": "What causes copper losses in a transformer?",
+        "reference_answer": "Copper losses are caused by current flowing through winding resistance."
+    },
+    {
+        "id": "TR005",
+        "difficulty": "Hard",
+        "question": "Explain the difference between core-type and shell-type transformers.",
+        "reference_answer": "Core-type transformers surround windings with the core, while shell-type transformers surround the core with windings."
+    }
+]
